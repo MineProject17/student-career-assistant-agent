@@ -1,0 +1,11 @@
+# Student Career Assistant Agent - Requirements
+# Python 3.9+
+
+# Core dependencies
+google-generativeai>=0.3.2
+
+# Optional: For full ADK support (when available)
+# google-adk
+
+# Utility libraries
+python-dateutil>=2.8.2
